@@ -29,7 +29,7 @@
 
     $.mbBgndGallery.buildGallery({
       containment: "#intro",
-      timer: 3000,
+      timer: 2000,
       effTimer: 1000,
       controls: "#controls",
       grayScale: false,
@@ -57,9 +57,9 @@
       // else:
 
       images: [
-        "img/bgslides/1.jpg",
-        "img/bgslides/2.jpg",
-        "img/bgslides/3.jpg"
+        "img/bgslides/4.jpg",
+        "img/bgslides/9-1.jpg",
+        "img/bgslides/8-1.jpg"
       ],
 
       onStart: function() {},
@@ -76,11 +76,11 @@
   // featured text
   $("#rotator .1strotate").textrotator({
     animation: "dissolve",
-    speed: 4000
+    speed: 3000
   });
   $("#rotator .2ndrotate").textrotator({
     animation: "dissolve",
-    speed: 4000
+    speed: 3000
   });
 
   // Fixed navbar

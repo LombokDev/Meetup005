@@ -250,7 +250,7 @@ Parallax
 ============================= */
 
 #parallax1{
-	background-image: url(../img/parallax/1.jpg);
+	background-image: url(../img/parallax/3.jpg);
 }
 #parallax2{
 	background-image: url(../img/parallax/2.jpg);
@@ -691,7 +691,7 @@ ul.social-network li a i{
 Footer
 ================================= */
 footer {
-	background: #00c1c1;
+	background: #007bffff;
 	color: #fff;
 	padding: 50px 0 30px;
 }
